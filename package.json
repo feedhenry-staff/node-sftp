@@ -16,8 +16,8 @@
         "node": ">=0.4.x"
     },
     "dependencies": {
-        "asyncjs": "~0.0.6",
-        "pty.js": "~0.1.2"
+        "asyncjs": "*",
+        "pty.js": "*"
     },
     
     "main": "./lib/sftp.js",
